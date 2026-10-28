@@ -27,4 +27,4 @@ Uma aplicação completa de calculadora interativa, desenvolvida para rodar via 
 2. **Abra o Terminal:** Navegue até a pasta onde o arquivo `calculadora.py` está salvo.
 3. **Execute o script:**
    ```bash
-   python3 calculadora.py
+   py calculadora.py
